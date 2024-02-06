@@ -1,0 +1,14 @@
+1) made a container to contain all the element and form inside. 
+      created form and in form i used "event.preventDefault();"
+      to stop default refresh
+
+2) used switch to match index of selected value and doing operation 
+according to the problem statement
+
+3) On change of any input, the answer should be blank and need to click the button again
+    adding event listeners to check change of input to blank the answer field
+
+4) also covered divided by 0.
+
+5) created whole project using only Bootstrap and JavaScript and also added 
+    more functionality in a single page.
